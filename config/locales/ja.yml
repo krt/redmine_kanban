@@ -1,0 +1,36 @@
+# English strings go here for Rails i18n
+ja:
+  kanban_title: カンバン
+  kanban_text_incoming: インカミング
+  kanban_text_backlog: バックログ
+  kanban_text_selected_requests: 選択されたリクエスト
+  kanban_text_quick_tasks: クイックタスク
+  kanban_text_user: ユーザ
+  kanban_text_active: アクティブ
+  kanban_text_testing: テスト中
+  kanban_text_finished_requests: 完了したリクエスト
+  kanban_text_canceled_requests: キャンセルしたリクエスト
+  kanban_text_general_settings: 全体設定
+  kanban_text_pane_settings: ペイン設定
+  kanban_text_pane_settings_description: "各ペインに紐づくステータスを選んでください。イシューがドラッグ＆ドロップされた時にステータス更新されます。"
+  kanban_text_general_help: "Each list is a Pane of issues.  The issues can be dragged and dropped onto other panes based on Roles and Permissions settings."
+  kanban_text_sync: "同期"
+  kanban_label_incoming_pane: インカミング
+  kanban_label_backlog_pane: バックログ
+  kanban_label_selected-requests_pane: 選択されたリクエスト
+  kanban_label_selected_pane: 選択されたリクエスト
+  kanban_label_quick-tasks_pane: クイックタスク
+  kanban_label_active_pane: アクティブ
+  kanban_label_testing_pane: テスト中
+  kanban_label_finished_pane: 完了
+  kanban_label_canceled_pane: キャンセル済み
+  kanban_label_limit: 最大アイテム数
+  kanban_label_day_limit: 日数
+
+  kanban_label_staff_role: 配置されたリクエストに利用するロール（権限）
+  kanban_label_incoming_project: 「インカミング」ペインに利用するプロジェクト
+  kanban_text_error_saving: リスト保存中にエラーが発生しました。ページを再読み込みして試してください。
+  kanban_text_notice_sync: カンバン・リストは同期されました。
+  kanban_text_saved: カンバン・リストが更新されました。
+  field_state: "ステート"
+  kanban_text_nothing: "（なし）"
